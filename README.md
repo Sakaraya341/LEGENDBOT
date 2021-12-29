@@ -1,11 +1,11 @@
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
-</h1>
+<b> 𝐱𝐱𝐍𝐀𝐍𝐀𝐓𝐘𝐱𝐱『 ￬ なずかぇϞ 』 </b>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+
+[![𝐱𝐱𝐍𝐀𝐍𝐀𝐓𝐘𝐱𝐱『 ￬ なずかぇϞ 』](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/Sakaraya341/LEGENDUSERBOT)
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>⚡ xxNANATYxxBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
 <p align="center">
